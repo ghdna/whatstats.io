@@ -1,4 +1,6 @@
 # WhatStats.io 
+#### Live Demo: [WhatStats.io](https://my.whatstats.io/?q=demo)
+
 #### Discover Fun Insights from your WhatsApp Chats
 
 
@@ -10,7 +12,7 @@
 ###### 👑 Emoji Leaderboard: Who is winning the Emoji race?
 ###### 📅 Most/Least Active Months, Days of week, and Hours of the Day
 
-#### Live Demo: [WhatStats.io](https://my.whatstats.io/?q=demo)
+
 
 ![Discover Fun Insights from your WhatsApp Chats](https://whatstats.io/static/3998be9a763f31c406c9c9ec63c80855/96359/sample.webp)
 
@@ -18,6 +20,9 @@
 #### Under the hood
 - UI: [Material-UI](https://material-ui.com/)
 - FrontEnd: [ReactJS](https://reactjs.org/) 
+- Visualization: [ChartJS](https://www.chartjs.org/) 
+- Info Page (WhatStats.io): [Gatsby](https://www.gatsbyjs.com/)
+- Hosting: [AWS Serverless](https://aws.amazon.com/serverless/)
 
 
 #### Usage
