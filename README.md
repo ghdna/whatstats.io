@@ -20,9 +20,10 @@
 #### Under the hood
 - UI: [Material-UI](https://material-ui.com/)
 - FrontEnd: [ReactJS](https://reactjs.org/) 
+- Build Pipeline: [Create React App](https://create-react-app.dev/)
 - Visualization: [ChartJS](https://www.chartjs.org/) 
 - Info Page (WhatStats.io): [Gatsby](https://www.gatsbyjs.com/)
-- Hosting: [AWS Serverless](https://aws.amazon.com/serverless/)
+- Backend: [AWS Serverless](https://aws.amazon.com/serverless/)
 
 
 #### Usage
